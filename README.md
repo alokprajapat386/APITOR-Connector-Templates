@@ -5,8 +5,8 @@ Follow the instructions in files and set up the APITOR_PROJECT_TOKEN envrironmen
 
 
 You can explore APITOR core engines and the frontend dashboard in their respective repositories:
-* **Frontend Dashboard:** [https://github.com/yourusername/apitor-frontend](https://github.com/yourusername/apitor-frontend)
-* **Backend Aggregator:** [https://github.com/yourusername/apitor-backend](https://github.com/yourusername/apitor-backend)
+* **Frontend Dashboard:** [Click here to see Frontend repository](https://github.com/alokprajapat386/APITOR-Frontend)
+* **Backend Aggregator:** [Click here to see Backend repository](https://github.com/alokprajapat386/APITOR-Backend)
 
 Want to see the telemetry in action? Check out our live visualization dashboard!
-* **Frontend Dashboard:** [https://your-frontend-url.vercel.app](https://apitor.vercel.app) 
+* **Frontend Dashboard:** [apitor.vercel.app](https://apitor.vercel.app) 
